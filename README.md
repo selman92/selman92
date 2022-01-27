@@ -8,7 +8,6 @@ I mainly work with C#, .NET.
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
 
 <br />
-<br />
 
 ### Technology Stack:
 
