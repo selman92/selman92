@@ -1,4 +1,8 @@
-### Hi there 👋
+**Hi, I'm Selman!**👋
+
+I am a Senior Software Engineer working for Invicti Security.
+
+I mainly work with C#, .NET.
 
 <!--
 **selman92/selman92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
