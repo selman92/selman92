@@ -1,4 +1,4 @@
-**Hi, I'm Selman!**👋
+**Hi, I'm Selman** 👋
 
 I am a Senior Software Engineer working for Invicti Security.
 
