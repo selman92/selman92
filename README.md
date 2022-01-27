@@ -19,6 +19,7 @@ I am a Senior Software Engineer working for Invicti Security.
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][stackoverflow]
 
 <br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=selman92&color=green)
 
