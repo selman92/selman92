@@ -4,6 +4,9 @@ I am a Senior Software Engineer working for Invicti Security.
 
 I mainly work with C#, .NET.
 
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+
 <!--
 **selman92/selman92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[linkedin]: https://www.linkedin.com/in/selman-gen%C3%A7-a9914076/
+[stackoverflow]: https://stackoverflow.com/users/3010968/selman-gen%c3%a7
